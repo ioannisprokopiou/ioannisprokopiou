@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 
 <p> 
 <a href="https://ioannisprokopiou.github.io/" target="_blank"><img alt="My Personal Website" src="https://img.shields.io/badge/-My--Homepage-2e8b57?logo=nones&style=for-the-badge" /></a> 
-<a href="https://medium.com/@ioannisprokopiou" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a> 
 <a href="https://www.linkedin.com/in/ioannis-prokopiou" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
