@@ -91,5 +91,5 @@ My name is Ioannis, a Senior Data Automation Analyst located in the beautiful <b
 
 <h2>My Repositories</h2>
 
+<a href="https://github.com/ioannisprokopiou/Machine-Learning-General"><img width="360" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ioannisprokopiou&repo=Machine-Learning-General&theme=react&bg_color=1F222E&title_color=F8D866&icon_color=F8D866&hide_border=false&show_icons=true" alt="decentralized-technologies"></a>	
 
-<h2>My Projects</h2>
